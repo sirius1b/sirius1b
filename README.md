@@ -27,7 +27,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 
-[linkedin]: https://www.linkedin.com/in/vermalavanya/]
+[linkedin]: [https://www.linkedin.com/in/vermalavanya/]
 [StackOverflow]: [https://stackoverflow.com/users/13063962/lavanya-verma]
-[facebook]:[https://www.facebook.com/lavanya.verma.92560]
+[facebook]: [https://www.facebook.com/lavanya.verma.92560]
 [hackerrank]: [https://www.hackerrank.com/lavanya18155]
