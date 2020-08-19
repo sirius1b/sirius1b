@@ -28,7 +28,7 @@
 
 
 <img align="left" alt="broompa's Github Stats" src="https://github-readme-stats.broompa.vercel.app/api?username=broompa&show_icons=true&hide_border=true&theme=dark" />
-<img align = "left" alt= "broompa's top languages uses" src="https://github-readme-stats.vercel.app/api/top-langs/?username=broompa&show_icons=true&hide_border=true&theme=dark"/>
+<img align = "left" alt= "broompa's top languages uses" src="https://github-readme-stats.broompa.vercel.app/api/top-langs/?username=broompa&show_icons=true&hide_border=true&theme=dark"/>
 
 
 
