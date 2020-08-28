@@ -7,7 +7,7 @@
 - ⚡ Fun fact: I draw cartoon faces. REAL CARTOON ONES !
 
 ### Spotify Playing 🎧
-[<img src="https://novatorem.broompa.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xkcc2znnklbrgp6v5vr2a6c2ta)
+[<img src="https://novatorem-3qvs864si.vercel.app/api/spotify" alt="Broompa Spotify Playing" width="350" />](https://open.spotify.com/user/31xkcc2znnklbrgp6v5vr2a6c2ta)
 
 
 ### Find me at :
