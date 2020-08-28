@@ -2,9 +2,13 @@
 
 ## I'm a Student, Learner and Passionate Individual!
 
-- 🌱 I’m currently learning ROS.
+- 🌱 I’m currently learning ROS and Control Theory.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
 - ⚡ Fun fact: I draw cartoon faces. REAL CARTOON ONES !
+
+### Spotify Playing 🎧
+[<img src="https://novatorem.broompa.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/31xkcc2znnklbrgp6v5vr2a6c2ta)
+
 
 ### Find me at :
 [<img align="left" alt="broompa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
