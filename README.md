@@ -1,6 +1,6 @@
 ### Hi there, I'm Lavanya 👋
 
-## I'm a Student, Learner and Passionate Individual!
+## I'm a E.C.E Undergrad at IIITD.
 
 - 🌱 I’m currently learning ROS and Control Theory.
 - 🥅 2020 Goals: Contribute more to Open Source projects.
