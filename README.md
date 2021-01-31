@@ -1,10 +1,12 @@
 ### Hi there, I'm Lavanya 👋
 
 ## I'm a E.C.E Undergrad at IIITD.
+<!-- 
+- 🌱 I’m currently learning Deep Learning, Computer Vision and Optimal Control.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I draw cartoon faces. REAL CARTOON ONES ! -->
 
-- 🌱 I’m currently learning ROS and Control Theory.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I draw cartoon faces. REAL CARTOON ONES !
+
 
 ### Spotify Playing 🎧
 [<img src="https://novatorem-3qvs864si.vercel.app/api/spotify" alt="Broompa Spotify Playing" width="350" />](https://open.spotify.com/user/31xkcc2znnklbrgp6v5vr2a6c2ta)
