@@ -8,9 +8,9 @@
 
 
 
-### Spotify Playing 🎧
+<!--- ### Spotify Playing 🎧
 [<img src="https://novatorem-3qvs864si.vercel.app/api/spotify" alt="Broompa Spotify Playing" width="350" />](https://open.spotify.com/user/31xkcc2znnklbrgp6v5vr2a6c2ta)
-
+-->
 
 ### Find me at :
 [<img align="left" alt="broompa | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
