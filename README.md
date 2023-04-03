@@ -1,6 +1,6 @@
 ### Hi there, I'm Lavanya 👋
 
-## I'm a E.C.E Undergrad at IIITD.
+## I'm a Software Developer and a aspiring Roboticist.
 <!-- 
 - 🌱 I’m currently learning Deep Learning, Computer Vision and Optimal Control.
 - 🥅 2021 Goals: Contribute more to Open Source projects.
@@ -33,10 +33,10 @@
 
 <br/>
 <br/>
-<img align="left" alt="broompa's Github Stats" src="https://github-readme-stats.broompa.vercel.app/api?username=broompa&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="broompa's Github Stats" src="https://https://github.com/anuraghazra/github-readme-stats/api?username=sirius1b&show_icons=true&hide_border=true&theme=dark" />
 
 
-<img align = "left" alt= "broompa's top languages uses" src="https://github-readme-stats.broompa.vercel.app/api/top-langs/?username=broompa&show_icons=true&hide_border=true&theme=dark&layout=compact"/>
+<img align = "left" alt= "broompa's top languages uses" src="https://https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=sirius1b&show_icons=true&hide_border=true&theme=dark&layout=compact"/>
 
 
 
