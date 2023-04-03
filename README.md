@@ -33,10 +33,9 @@
 
 <br/>
 <br/>
-<img align="left" alt="broompa's Github Stats" src="https://github.com/anuraghazra/github-readme-stats/api?username=sirius1b&show_icons=true&hide_border=true&theme=dark" />
+<img align="left" alt="broompa's Github Stats" src="https://github-readme-stats-9tnm.vercel.app/api?username=sirius1b&show_icons=true&hide_border=true&theme=dark" />
 
-
-<img align = "left" alt= "broompa's top languages uses" src="https://github.com/anuraghazra/github-readme-stats/api/top-langs/?username=sirius1b&show_icons=true&hide_border=true&theme=dark&layout=compact"/>
+<img align = "left" alt= "broompa's top languages uses" src="https://github-readme-stats-9tnm.vercel.app/api/top-langs/?username=sirius1b&show_icons=true&hide_border=true&theme=dark&layout=compact"/>
 
 
 
