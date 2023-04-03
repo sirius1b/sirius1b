@@ -1,9 +1,8 @@
 ### Hi there, I'm Lavanya 👋
 
-## I'm a Software Developer and a aspiring Roboticist.
-<!-- 
-- 🌱 I’m currently learning Deep Learning, Computer Vision and Optimal Control.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
+- I'm currently working as a java developer at Ericsson.
+- I have a background in ECE with a focus on Control Systems and Robotics.
+- 🥅 2023 Goals: Contribute to open source projects
 - ⚡ Fun fact: I draw cartoon faces. REAL CARTOON ONES ! -->
 
 
@@ -33,13 +32,17 @@
 
 <br/>
 <br/>
-<img align="left" alt="broompa's Github Stats" src="https://github-readme-stats-9tnm.vercel.app/api?username=sirius1b&show_icons=true&hide_border=true&theme=dark" />
 
-<img align = "left" alt= "broompa's top languages uses" src="https://github-readme-stats-9tnm.vercel.app/api/top-langs/?username=sirius1b&show_icons=true&hide_border=true&theme=dark&layout=compact"/>
-
+<table>
+<tr>
+<td>
+<img align="center" alt="broompa's Github Stats" src="https://github-readme-stats-9tnm.vercel.app/api?username=sirius1b&show_icons=true&hide_border=true&theme=buefy&layout=compact" /> </td>
+<td>
+<img align = "center" alt= "broompa's top languages uses" src="https://github-readme-stats-9tnm.vercel.app/api/top-langs/?username=sirius1b&show_icons=true&hide_border=true&theme=buefy&layout=compact"/>
+</td>
+</tr>
+</table>
 
 
 [linkedin]: https://www.linkedin.com/in/vermalavanya/
-[StackOverflow]: https://stackoverflow.com/users/1363962/lavanya-verma
-[facebook]:https://www.facebook.com/lavanya.verma.92560
 [hackerrank]: https://www.hackerrank.com/lavanya18155
