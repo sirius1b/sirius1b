@@ -1,6 +1,6 @@
 ### Hi there, I'm Lavanya 👋
 
-- I'm currently working as a java developer at Ericsson.
+- I'm currently working as a SDE at Ericsson.
 - I have a background in ECE with a focus on Control Systems and Robotics.
 - 🥅 2023 Goals: Contribute to open source projects
 
