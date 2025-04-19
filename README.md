@@ -31,12 +31,12 @@ I'm a passionate **Software Engineer** with a strong background in **Backend Dev
     
 -   **Frameworks**: Spring Boot, Kubernetes, Docker
     
--   **Tools**: Jenkins, Terraform, AWS (Lambda, EC2, S3, etc.)
+-   **Tools**: Github Actions, Terraform, AWS (Lambda, EC2, S3, etc.)
     
--   **Databases**: MySQL, FoundationDB
+-   **Databases**: MySQL, FoundationDB, MongoDB, Redis, Elasticsearch
     
 -   **Testing**: JUnit, k6, Load Testing
-    
+-     
 -   **Cloud Platforms**: AWS, GCP
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius1b&theme=default)
