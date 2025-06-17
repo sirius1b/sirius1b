@@ -36,7 +36,7 @@ I'm a passionate **Software Engineer** with a strong background in **Backend Dev
 -   **Databases**: MySQL, FoundationDB, MongoDB, Redis, Elasticsearch
     
 -   **Testing**: JUnit, k6, Load Testing
--     
+
 -   **Cloud Platforms**: AWS, GCP
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius1b&theme=default)
