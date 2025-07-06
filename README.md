@@ -30,7 +30,7 @@ I'm a passionate **Software Engineer** with a strong background in **Backend Dev
 
 [![Medium Posts](https://github-readme-cards.vercel.app/medium/user/lav.nya.verma?count=5)](https://medium.com/@lav.nya.verma)
 
-## Numbers
+## Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sirius1b&theme=default)
 
