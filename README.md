@@ -26,9 +26,9 @@ I'm a passionate **Software Engineer** with a strong background in **Backend Dev
 
 - **Cloud Platforms**: AWS, GCP
 
-## Blogs
+## Articles
 
-![](https://github-readme-cards.vercel.app/medium/user/lav.nya.verma?count=5)
+[![Medium Posts](https://github-readme-cards.vercel.app/medium/user/lav.nya.verma?count=5)](https://medium.com/@lav.nya.verma)
 
 ## Numbers
 
